@@ -1,7 +1,7 @@
-https://imgur.com/zmDyM81
+
 
 # dev-environment-lab
-
+![VS Code File Explorer](https://i.imgur.com/zmDyM81.png)
 ## OS
 
 darwin21.0
